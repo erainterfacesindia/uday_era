@@ -4,7 +4,7 @@ import { Button } from "./Button"
 import Video from "../assets/videos/blue.mp4"
 
 
-const Hero = () => {
+const HeroSection = () => {
     return (
         <HeroContainer>
             <HeroBg>
@@ -22,7 +22,7 @@ const Hero = () => {
     )
 }
 
-export default Hero
+export default HeroSection
 
 const HeroContainer = styled.div `
 background: #0c0c0c;
