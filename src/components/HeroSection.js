@@ -1,7 +1,7 @@
-import React from "react"
+import * as React from "react"
 import styled from 'styled-components'
 import { Button } from "./Button"
-import Video from "../assets/videos/blue.mp4"
+import Video from "../assets/videos/green.mp4"
 
 
 const HeroSection = () => {

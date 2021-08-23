@@ -1,18 +1,18 @@
 [
     {
-        "img": "../assets/images/gatsby-icon.png",
+        "img": "../assets/images/1.jpeg",
         "alt":"our-service-image1",
         "name":"Gatsby-icon",
         "button":"Read More"
     },
     {
-        "img": "../assets/images/gatsby-icon.png",
+        "img": "../assets/images/1.jpeg",
         "alt":"our-service-image2",
         "name":"Gatsby-icon",
         "button":"Read More"
     },
     {
-        "img": "../assets/images/gatsby-icon.png",
+        "img": "../assets/images/1.jpeg",
         "alt":"our-service-image3",
         "name":"Gatsby-icon",
         "button":"Read More"

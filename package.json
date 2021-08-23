@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
     "@react-icons/all-files": "^4.1.0",
     "babel-plugin-styled-components": "^1.13.2",
     "gatsby": "^3.11.1",
@@ -23,6 +24,7 @@
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
     "react-icons": "^4.2.0",
+    "react-material-ui-carousel": "^2.3.1",
     "styled-components": "^5.3.0"
   },
   "devDependencies": {
